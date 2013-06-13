@@ -1,0 +1,3 @@
+SPE
+===
+Sierra Properties Editor
